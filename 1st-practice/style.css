@@ -1,0 +1,12 @@
+.main-container{
+    background-color: yellow;
+    text-align: center;
+    height: 300px;
+    
+}
+
+.box{
+    background-color: red;
+    border: 1px solid black;
+    height: 50px;
+}
